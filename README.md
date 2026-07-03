@@ -57,15 +57,6 @@ Meu grande diferencial competitivo está no forte domínio lógico, algorítmico
 
 <hr>
 
-## 📊 Estatísticas do meu Perfil
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&layout=compact&langs_count=7&theme=radial"/>
-</div>
-
-<hr>
-
 <div align="center">
   <p><i>"A tecnologia move o mundo, mas o design e a lógica ditam o rumo" ✨</i></p>
 </div>
