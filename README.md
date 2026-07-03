@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Olá, eu sou o Luiz Felipe 👋</h1>
-  <p><strong>Desenvolvedor Front-End | Apaixonado por Interfaces Modernas e Engenharia de Software</strong></p>
+  <p><strong>Desenvolvedor Full Stack | Interfaces Modernas & Back-End Robustificado</strong></p>
 
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luiz felipe">
   </a>
   <a href="mailto:luizfelipemurarolli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="luizfelipemurarolli@gmail.com">
   </a>
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 👤 Sobre Mim
 
-Sou um desenvolvedor focado na criação de interfaces de usuário (Front-End) dinâmicas, intuitivas e de alta performance utilizando **HTML5** e **CSS3**. 
+Sou um desenvolvedor **Full Stack** focado em unir o melhor dos dois mundos: a criação de interfaces de usuário (Front-End) altamente dinâmicas, intuitivas e performáticas com uma arquitetura de servidor (Back-End) estável, limpa e segura.
 
-O meu grande diferencial competitivo é o meu forte domínio lógico e estrutural. Além de desenhar o visual, compreendo a arquitetura de dados e sei exatamente como a aplicação se comporta de ponta a ponta devido à minha sólida base em linguagens robustas de Back-End e Engenharia de Software, como **Java, C++, C, Python, MySQL** e o framework **Spring Boot**.
+Meu grande diferencial competitivo está no forte domínio lógico, algorítmico e estrutural. Consigo projetar uma aplicação de ponta a ponta — desde os estilos visuais modernos em **HTML5** e **CSS3**, passando pelo gerenciamento de dados estruturados em **MySQL**, até a construção de APIs e ecossistemas complexos com **Java (Spring Boot)**, **Python**, **C++** e **C**.
 
 <hr>
 
@@ -50,10 +50,10 @@ O meu grande diferencial competitivo é o meu forte domínio lógico e estrutura
 
 ## 🚀 O que eu trago para a mesa?
 
-* 🎯 **UI/UX Focado:** Criação de telas modernas usando padrões semânticos em HTML5 e as novidades de layout do CSS.
-* ☕ **Ecossistema Java Robustificado:** Desenvolvimento de APIs REST funcionais utilizando Spring Boot e conexão eficiente com banco de dados MySQL.
-* 📐 **Forte Lógica Algorítmica:** Resolução de problemas complexos fundamentada na base de C e C++.
-* 🐍 **Automação e Scripts:** Utilização do Python para manipulação rápida de dados, scripts e integrações.
+* 🌐 **Integração Ponta a Ponta (Full Stack):** Capacidade de desenhar telas semânticas e modernas e conectá-las perfeitamente a servidores eficientes.
+* ☕ **APIs e Microsserviços com Spring Boot:** Desenvolvimento de regras de negócio complexas em Java integradas de forma performática com o banco de dados MySQL.
+* 📐 **Lógica de Alto Nível:** Resolução de problemas críticos estruturais e otimização de rotinas complexas utilizando a base rígida de C e C++.
+* 🐍 **Automação & Manipulação de Dados:** Criação de scripts ágeis e ferramentas auxiliares utilizando o ecossistema do Python.
 
 <hr>
 
