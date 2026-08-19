@@ -52,7 +52,6 @@ Meu grande diferencial competitivo está no forte domínio lógico, algorítmico
 * 🌐 **Integração Ponta a Ponta (Full Stack):** Capacidade de desenhar telas semânticas e modernas e conectá-las perfeitamente a servidores eficientes.
 * ☕ **APIs e Microsserviços com Spring Boot:** Desenvolvimento de regras de negócio complexas em Java integradas de forma performática com o banco de dados MySQL.
 * 📐 **Lógica de Alto Nível:** Resolução de problemas críticos estruturais e otimização de rotinas complexas utilizando a base rígida de C e C++.
-* 🐍 **Automação & Manipulação de Dados:** Criação de scripts ágeis e ferramentas auxiliares utilizando o ecossistema do Python.
 
 <hr>
 
