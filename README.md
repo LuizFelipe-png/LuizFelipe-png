@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor **Full Stack** focado em unir o melhor dos dois mundos: a criação de interfaces de usuário (Front-End) altamente dinâmicas, intuitivas e performáticas com uma arquitetura de servidor (Back-End) estável, limpa e segura.
 
-Meu grande diferencial competitivo está no forte domínio lógico, algorítmico e estrutural. Consigo projetar uma aplicação de ponta a ponta — desde os estilos visuais modernos em **HTML5** e **CSS3**, passando pelo gerenciamento de dados estruturados em **MySQL**, até a construção de APIs e ecossistemas complexos com **Java (Spring Boot)**, **Python**, **C++** e **C**.
+Meu grande diferencial competitivo está no forte domínio lógico, algorítmico e estrutural. Consigo projetar uma aplicação de ponta a ponta — desde os estilos visuais modernos em **HTML5** e **CSS3**, passando pelo gerenciamento de dados estruturados em **MySQL**, até a construção de APIs e ecossistemas complexos com **Java (Spring Boot)**, **C++** e **C**.
 
 <hr>
 
@@ -32,7 +32,6 @@ Meu grande diferencial competitivo está no forte domínio lógico, algorítmico
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="SpringBoot" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ### 🧠 Linguagens Estruturadas & Baixo Nível
