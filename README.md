@@ -2,7 +2,9 @@
   <h1>Olá, eu sou o Luiz Felipe 👋</h1>
   <p><strong>Desenvolvedor Full Stack | Interfaces Modernas & Back-End Robustificado</strong></p>
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/
+luiz-felipe-a46321407
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luiz felipe">
   </a>
   <a href="mailto:luizfelipemurarolli@gmail.com">
