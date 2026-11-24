@@ -1,9 +1,8 @@
- 
-<div align="center">
+ <div align="center">
   <h1>Olá, eu sou o Luiz Felipe 👋</h1>
   <p><strong>Desenvolvedor Full Stack | Interfaces Modernas & Back-End Robustificado</strong></p>
 
-  <a href="www.linkedin.com/in/luiz-felipe-a46321407" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-felipe-a46321407" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:luizfelipemurarolli@gmail.com">
@@ -17,7 +16,7 @@
 
 Sou um desenvolvedor **Full Stack** focado em unir o melhor dos dois mundos: a criação de interfaces de usuário (Front-End) altamente dinâmicas, intuitivas e performáticas com uma arquitetura de servidor (Back-End) estável, limpa e segura.
 
-Meu grande diferencial competitivo está no forte domínio lógico, algorítmico e estrutural. Consigo projetar uma aplicação de ponta a ponta — desde os estilos visuais modernos em **HTML5**, **CSS3** e **JavaScript**, passando pelo desenvolvimento de interfaces com **React.js**, gerenciamento de servidores com **Node.js**, gerenciamento de dados estruturados em **MySQL**, até a construção de APIs e ecossistemas complexos com **Java (Spring Boot)**, **C++** e **C**.
+Meu grande diferencial competitivo está no forte domínio lógico, algorítmico e estrutural. Consigo projetar uma aplicação de ponta a ponta — desde os estilos visuais modernos em **HTML5**, **CSS3**, **JavaScript** e **Bootstrap**, passando pelo desenvolvimento de interfaces com **React.js**, gerenciamento de dados estruturados em **MySQL** e **PostgreSQL**, até a construção de APIs e aplicações com **Node.js**, **Java (Spring Boot)**, **C++** e **C**.
 
 <hr>
 
@@ -30,6 +29,7 @@ Meu grande diferencial competitivo está no forte domínio lógico, algorítmico
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
 ### ⚙️ Back-End & Frameworks
@@ -51,17 +51,20 @@ Meu grande diferencial competitivo está no forte domínio lógico, algorítmico
 
 <div>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 <hr>
 
 ## 🚀 O que eu trago para a mesa?
 
-* 🌐 **Integração Ponta a Ponta (Full Stack):** Capacidade de desenhar telas semânticas e modernas e conectá-las perfeitamente a servidores eficientes.
+* 🌐 **Integração Ponta a Ponta (Full Stack):** Capacidade de desenvolver interfaces modernas e conectá-las a servidores eficientes e bancos de dados estruturados.
 * ⚛️ **Interfaces Dinâmicas com React.js:** Desenvolvimento de interfaces modernas, reutilizáveis e interativas utilizando JavaScript e React.
+* 🎨 **Estilização com Bootstrap:** Criação de layouts responsivos e componentes visuais utilizando Bootstrap e CSS3.
 * 🟢 **Desenvolvimento Back-End com Node.js:** Construção de aplicações e serviços no lado do servidor utilizando o ecossistema JavaScript.
-* ☕ **APIs e Microsserviços com Spring Boot:** Desenvolvimento de regras de negócio complexas em Java integradas de forma performática com o banco de dados MySQL.
-* 📐 **Lógica de Alto Nível:** Resolução de problemas críticos estruturais e otimização de rotinas complexas utilizando a base rígida de C e C++.
+* ☕ **APIs com Spring Boot:** Desenvolvimento de regras de negócio e serviços em Java integrados a bancos de dados.
+* 🗄️ **Gerenciamento de Banco de Dados:** Organização, modelagem e manipulação de dados utilizando MySQL e PostgreSQL.
+* 📐 **Lógica de Alto Nível:** Resolução de problemas estruturais e otimização de algoritmos utilizando C e C++.
 
 <hr>
 
