@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor **Full Stack** focado em unir o melhor dos dois mundos: a criação de interfaces de usuário (Front-End) altamente dinâmicas, intuitivas e performáticas com uma arquitetura de servidor (Back-End) estável, limpa e segura.
 
-Meu grande diferencial competitivo está no forte domínio lógico, algorítmico e estrutural. Consigo projetar uma aplicação de ponta a ponta — desde os estilos visuais modernos em **HTML5**, **CSS3**, **JavaScript** e **Bootstrap**, passando pelo desenvolvimento de interfaces com **React.js**, gerenciamento de dados estruturados em **MySQL** e **PostgreSQL**, até a construção de APIs e aplicações com **Node.js**, **Java (Spring Boot)**, **C++** e **C**.
+Meu grande diferencial competitivo está no forte domínio lógico, algorítmico e estrutural. Consigo projetar uma aplicação de ponta a ponta — desde os estilos visuais modernos em **HTML5**, **CSS3**, **JavaScript** e **Bootstrap**, passando pelo desenvolvimento de interfaces com **React.js**, gerenciamento de dados estruturados em **MySQL** e **PostgreSQL**, até a construção de APIs e aplicações com **Node.js**, **Java (Spring Boot)**, **C**.
 
 <hr>
 
